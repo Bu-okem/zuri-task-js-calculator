@@ -1,1 +1,1 @@
-# zuri-task-js-calculator
+# Zuri Task Js Calculator
